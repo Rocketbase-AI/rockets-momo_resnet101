@@ -13,12 +13,12 @@
         "info.json",
         "layers.py",
         "model.py",
-        "README.md"
+        "README.md",
         "rocket_builder.py",
         "utils.py",
-        "weights.pth",
+        "weights.pth"
     ],
-    "rocketRepoUrl": "https://gitlab.com/mirage-technologies/rockets/resnet-101",
+    "rocketRepoUrl": "https://gitlab.com/mirage-technologies/rockets/momo_resnet101",
     "paperUrl": "https://arxiv.org/abs/1512.03385",
     "originRepoUrl": "https://github.com/pytorch/vision",
     "description": "Deep Residual Learning for Image Recognition 101"
